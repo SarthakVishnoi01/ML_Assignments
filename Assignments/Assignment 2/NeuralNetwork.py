@@ -1,0 +1,1 @@
+class NeuralNetwork(input_size, output_size, hidden_layers_sizes,activation)
